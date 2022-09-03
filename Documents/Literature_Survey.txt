@@ -1,0 +1,22 @@
+1.Emotion Detection
+https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1643&context=etd_projects
+
+2.Picture Quality assesment
+https://paperswithcode.com/paper/image-quality-assessment-guided-deep-neural
+(https://towardsdatascience.com/deep-image-quality-assessment-30ad71641fac)
+
+3.Quality Assesment
+https://paperswithcode.com/paper/no-reference-quality-assessment-of-contrast
+
+4.Profile Picture Rating 
+https://medium.com/analytics-vidhya/profile-photo-rating-service-using-deep-learning-models-8c477f74147a
+
+5.Visual Aestheticness
+https://www.kdnuggets.com/2018/01/visual-aesthetics-photo-quality-ai.html
+
+
+
+
+Dataset Collection
+https://analyticsindiamag.com/top-8-datasets-available-for-emotion-detection/
+
